@@ -108,7 +108,7 @@ namespace Proyecto_1_Programacion1
 
             try
             {
-                string apiKey = "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"; // <-- Reemplaza con tu clave válida
+                string apiKey = "MI API DE GROQ"; // <-- Reemplaza con tu clave válida
                 string apiUrl = "https://api.groq.com/openai/v1/chat/completions";
 
                 using (HttpClient client = new HttpClient())
